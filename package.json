@@ -1,10 +1,14 @@
 {
   "name": "gulp-rev-stable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于gulp-rev的功能添加",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weivea/gulp-rev-stable.git"
   },
   "dependencies": {
     "gulp-util": "^3.0.0",

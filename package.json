@@ -1,6 +1,6 @@
 {
   "name": "gulp-rev-stable",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "基于gulp-rev的功能添加",
   "main": "index.js",
   "scripts": {
